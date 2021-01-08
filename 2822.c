@@ -1,3 +1,5 @@
+//boj 2822(silver 5/2021-01-08)
+
 #include <stdio.h>
 
 void top_down_sort(int arr[]);
